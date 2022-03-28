@@ -1,0 +1,13 @@
+name: pfizerdox
+title: pfizerdox
+username:
+account: vaccines
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5905988
+bundleId: 5716715
+url: https://vaccines.shinyapps.io/pfizerdox/
+when: 1648028726.88106
+lastSyncTime: 1648028726.88106
+asMultiple: FALSE
+asStatic: FALSE
